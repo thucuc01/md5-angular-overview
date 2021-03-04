@@ -4,9 +4,8 @@
     <list default="true" id="13fa31a2-dd37-42fe-88dc-32a4cb6fd2fc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/angular-bootstrap-demo/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular-bootstrap-demo/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-bootstrap-demo/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-bootstrap-demo/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-bootstrap-demo/src/app/item-detail/item-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular-bootstrap-demo/src/app/item-detail/item-detail.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angular-bootstrap-demo/src/app/item-detail/item-detail.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-bootstrap-demo/src/app/item-detail/item-detail.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-bootstrap-demo/src/app/product/product.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular-bootstrap-demo/src/app/product/product.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-bootstrap-demo/src/app/product/product.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-bootstrap-demo/src/app/product/product.component.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614778462778</updated>
       <workItem from="1614778464584" duration="7461000" />
-      <workItem from="1614832756817" duration="7364000" />
+      <workItem from="1614832756817" duration="8004000" />
     </task>
     <servers />
   </component>

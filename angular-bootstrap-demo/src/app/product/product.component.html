@@ -17,3 +17,21 @@
 <p>Id: {{product.id}}</p>
 <p>Name: {{product.name}}</p>
 <p>Price: {{product.price}}</p>
+
+
+
+<h1>Table of Product List</h1>
+<table *ngIf="status">
+  <tr>
+    <td>ID</td>
+    <td>Name</td>
+    <td>Price</td>
+  </tr>
+  <tr *ngFor="let product of products">
+    <td>{{product.id}}</td>
+    <td>{{product.name}}</td>
+    <td>{{product.price}}</td>
+  </tr>
+</table>
+
+<button (click)="onClick()">Click</button>

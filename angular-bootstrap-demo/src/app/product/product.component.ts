@@ -25,9 +25,25 @@ import {Product} from '../product';
 })
 export class ProductComponent implements OnInit {
   product: Product = {};
+  status = false;
+  products : Product [] =[{
+    id: 1,
+    name: ' iphone1',
+    price : 100000
+    },
+    {
+      id: 2,
+      name: ' iphone2',
+      price : 1000000
+    }
+  ]
   constructor() { }
 
   ngOnInit() {
+  }
+
+  onClick(){
+    this.status=!this.status;
   }
 
 }
