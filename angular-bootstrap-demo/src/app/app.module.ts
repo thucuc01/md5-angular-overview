@@ -7,12 +7,14 @@ import {FormsModule} from "@angular/forms";
 import { ProductComponent } from './product/product.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { ItemDetailComponent } from './item-detail/item-detail.component';
+import { ItemComponent } from './item/item.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ProductComponent,
-    ItemDetailComponent
+    ItemDetailComponent,
+    ItemComponent
   ],
     imports: [
         BrowserModule,
