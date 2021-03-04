@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13fa31a2-dd37-42fe-88dc-32a4cb6fd2fc" name="Default Changelist" comment="" />
+    <list default="true" id="13fa31a2-dd37-42fe-88dc-32a4cb6fd2fc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-bootstrap-demo/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular-bootstrap-demo/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-bootstrap-demo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular-bootstrap-demo/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-bootstrap-demo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular-bootstrap-demo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-bootstrap-demo/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular-bootstrap-demo/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-bootstrap-demo/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-bootstrap-demo/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-bootstrap-demo/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-bootstrap-demo/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-bootstrap-demo/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular-bootstrap-demo/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular-bootstrap-demo/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/angular-bootstrap-demo/src/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1pFUiiOyPP90RUfHrtpMmXpd4mO" />
   <component name="ProjectViewState">
@@ -28,7 +48,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614778462778</updated>
-      <workItem from="1614778464584" duration="5863000" />
+      <workItem from="1614778464584" duration="7461000" />
+      <workItem from="1614832756817" duration="5169000" />
     </task>
     <servers />
   </component>
